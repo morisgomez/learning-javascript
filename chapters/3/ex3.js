@@ -18,7 +18,7 @@ var dogName = dogBreedAndName[breed]; //user input is searched for key pair in p
 //assigned value to variable.
 
 console.log("your dog\'s name is " + dogName + "? How fascinating!"); //output dog name on terminal.
-//utilize node exercise3.js to begin prompting user.
+//utilize node ex3.js to begin prompting user.
 //tests:
 //1) shiba = success
 //2) terrier = success
